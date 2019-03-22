@@ -8,7 +8,7 @@ start "Crypto-Miner" %miner%
 echo:
 :start
 cls
-color 0a
+color 0A
 echo ----------------------------------------------------------
 echo "A Simple Script To Watch your Miner & Restart If Needed."
 echo ----------------------------------------------------------
@@ -18,7 +18,7 @@ ECHO Everything Is OK
 timeout /t %time%
 goto :start) || (
 taskkill /f /im "%EXE%"
-color c
+color C
 ECHO ERROR: Restarting Miner
 start %miner%
 )
