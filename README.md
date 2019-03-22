@@ -1,2 +1,2 @@
 # cryptoCommand
-Server for Crypto-currency command center
+A Simple Script To Watch Your Crypto-currency Miner. 
