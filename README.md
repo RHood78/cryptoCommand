@@ -19,7 +19,7 @@ timeout /t 30
   // time it takes when miner is down to re-check if Mining Software has restarted.
 
 color 0A
-  // sets background to black and text color to green; text will change to red if Mining Software stops.
+  // sets background to black and text color to light green; text will change to red if Mining Software stops.
 
 Other color codes:
   Color attributes are specified by TWO hex digits — the first corresponds to the background; the second the foreground. Each digit can be any of the following values:
